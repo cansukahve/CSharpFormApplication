@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gppp", "gppp\gppp.csproj", "{C8698158-F8F9-4574-9EC6-EAE40EC25595}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{417B8080-1749-45C7-B930-8195490841C9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Görsel Programlama", "..\..\Görsel Programlama\Görsel Programlama.vdproj", "{AE34D3AB-B457-4094-8149-429A0668E90C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8698158-F8F9-4574-9EC6-EAE40EC25595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8698158-F8F9-4574-9EC6-EAE40EC25595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8698158-F8F9-4574-9EC6-EAE40EC25595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8698158-F8F9-4574-9EC6-EAE40EC25595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{417B8080-1749-45C7-B930-8195490841C9}.Debug|Any CPU.ActiveCfg = Debug
+		{417B8080-1749-45C7-B930-8195490841C9}.Release|Any CPU.ActiveCfg = Release
+		{AE34D3AB-B457-4094-8149-429A0668E90C}.Debug|Any CPU.ActiveCfg = Debug
+		{AE34D3AB-B457-4094-8149-429A0668E90C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EC80C20-2DFE-4B3C-A9D5-BC9A67C6ACCC}
+	EndGlobalSection
+EndGlobal
